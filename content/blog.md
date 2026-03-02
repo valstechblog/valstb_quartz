@@ -1,0 +1,3 @@
+[[AI and representation in media]]
+[[Big tech's bitter lesson]]
+[[Machines of loving taste]]

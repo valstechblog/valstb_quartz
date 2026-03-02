@@ -3,7 +3,6 @@ title: AI and representation in media
 date: 2026-01-22
 draft: false
 ---
-
 Substack: [Representation in a convoluted media landscape is an increasingly fraught path we must keep walking](https://valstechblog.substack.com/p/representation-in-a-convoluted-media)
 
 *spoilers: Stranger Things, The Pitt*

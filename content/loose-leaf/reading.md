@@ -1,0 +1,9 @@
+Excerpts from *Cujo* (1981) by Stephen King that made me take pause: 
+
+> _Or she could just leave well enough alone and ease Brett’s mind. They could enjoy the rest of their visit without thoughts of home intruding constantly. And… well, she was a little jealous of Cujo right about now. Tell the truth and shame the devil. Cujo was distracting Brett’s attention from what could be the most important trip he ever took. She wanted the boy to see a whole new life, a whole new set of possibilities, so that when the time came, a few years from now, for him to decide which doors he wanted to step through and which ones he would allow to swing closed, he could make those decisions with a bit of perspective. Perhaps she had been wrong to believe she could steer him, but let him at least have enough experience to make up his mind for himself._
+> 
+> _Was it fair to let his worries about the damned dog stand in the way of that?_
+
+> _She was afraid that if she told Holly these things, her sister’s reaction would be horrified anger rather than anything rational and helpful. Why horrified anger? Perhaps because, deep down in a part of the human soul where Buick station wagons, and Sony color TVs with Trinitron picture tubes, and parquet floors can never quite make their final stilling impact, Holly would recognize that she might have escaped a similar marriage, or similar_ life_, by the thinnest of margins._
+> 
+> _She hadn’t told because Holly had entrenched herself in her upper-middle-class suburban life like a watchful soldier in a foxhole. She hadn’t told because horrified anger could not solve her problems. She hadn’t told because no one likes to look like a freak in a sideshow, living through the days and weeks and months and years with an unpleasant, uncommunicative, sometimes frightening man. Charity had discovered there were things you didn’t want to tell. Shame wasn’t the reason. Sometimes it was just better—kinder—to keep up a front._
