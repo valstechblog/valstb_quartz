@@ -8,7 +8,7 @@ Welcome to my digital garden.
 Perhaps you stumbled here via my <a href="https://x.com/valstechblog" target="_blank">Twitter</a>, <a href="https://valstechblog.substack.com/" target="_blank">Substack</a>, or <a href="https://letterboxd.com/valstechblog/" target="_blank">Letterboxd</a>.
 
 I'm building out a few sections you can browse further using the sidebar: 
-- Selected posts from my [[blog]]
+- Selected posts from my blog [[blog/index]]
 - "Loose leaf" notes I write directly in [Obsidian](https://obsidian.md/) and sync to this site via [Quartz](https://quartz.jzhao.xyz/) and [GitHub](https://github.com/valstechblog)
 	- [[listening]] *(music and musicians)*
 	- [[reading]] *(books and writers)*
