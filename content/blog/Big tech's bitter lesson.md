@@ -1,5 +1,5 @@
 ---
-title: Big tech's bitter lesson
+title: "2025-10-26: Big tech's bitter lesson"
 date: 2025-10-26
 draft: false
 ---
@@ -90,7 +90,7 @@ Briefly, sales tax in the US is collected by the retailer at final point of sale
 
 > 9) Implement new revenue structures to account for AI’s growing share of the economy… [if labor’s share of economic output declines significantly] _**governments might require new revenue streams to complement income tax… [could explore] a “low-rate business wealth tax” as a complement to income taxes.**_
 
-Many of these policy ideas are around government regulation, taxation, and wealth distribution methods (e.g. via subsidies and public investment instruments - the “AI bond”) which Anthropic explicitly recognizes would _**be downward pressure on its profits.**_ Anthropic’s “$10 million commitment to scale up the Economic Futures Program” seems low compared to [Google’s $75M AI Opportunity Fund](https://publicpolicy.google/article/AI-opportunity-fund/) and [OpenAI’s $50M nonprofit fund](https://openai.com/index/people-first-ai-fund/), although Anthropic’s commitment is specific to funding economics research and symposia.
+Many of these policy ideas are around government regulation, taxation, and wealth distribution methods (e.g. via subsidies and public investment instruments - the "AI bond") which Anthropic explicitly recognizes would _**be downward pressure on its profits.**_ Anthropic's "\$10 million commitment to scale up the Economic Futures Program" seems low compared to [Google’s \$75M AI Opportunity Fund](https://publicpolicy.google/article/AI-opportunity-fund/) and [OpenAI’s \$50M nonprofit fund](https://openai.com/index/people-first-ai-fund/), although Anthropic’s commitment is specific to funding economics research and symposia.
 
 ### Tech’s bitter lesson
 

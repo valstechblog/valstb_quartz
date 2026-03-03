@@ -1,3 +1,25 @@
+Usual suspects: 
+- *A Deeper Understanding*, The War on Drugs ([*Pitchfork*](https://pitchfork.com/reviews/albums/the-war-on-drugs-a-deeper-understanding/))
+- *Two Star & The Dream Police*, Mk.gee
+- *Heavy Metal*, Cameron Winter 
+- *gutta child*, Gabriel Jacoby 
+- *Pretty Idea*, Amber Mark 
+- *Hard to Love*, Sofia Camara 
+- *Sincerely*, Kali Uchis 
+- *Magpie*, Peach Pit
+- *JIMMY*, Briston Maroney 
+- *Unerthed*, Toro y Moi 
+- *One Wayne G*, Mac DeMarco 
+- *MUTT*, Leon Thomas 
+- *Sweet Company*, Vicky Farewell 
+- *i hope u see this*, thủy
+
+Recent and upcoming: 
+- *MORELUV*, 3ee
+- *Distracted*, Thundercat 
+- *THE WARNING*, Telenova 
+
+Currently: 
 - [Tigran Hamasyan](https://www.tigranhamasyan.com/)
 	- *Armenian folk-influenced jazz*
 	- Album: *[Manifeste](https://www.youtube.com/watch?v=WmLgSrCeC6I)* (2026)
