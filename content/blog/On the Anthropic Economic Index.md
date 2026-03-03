@@ -1,5 +1,5 @@
 ---
-title: "2025-03-14: On the Anthropic Economic Index"
+title: On the Anthropic Economic Index
 date: 2025-03-14
 draft: false
 ---

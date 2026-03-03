@@ -1,5 +1,5 @@
 ---
-title: "2026-01-22: AI and representation in media"
+title: AI and representation in media
 date: 2026-01-22
 draft: false
 ---

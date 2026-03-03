@@ -1,5 +1,5 @@
 ---
-title: "2025-09-28: All the world's a stage, all the humans and machines merely players"
+title: All the world's a stage, all the humans and machines merely players
 date: 2025-09-28
 draft: false
 ---

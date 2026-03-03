@@ -1,5 +1,5 @@
 ---
-title: "2025-09-13: Polymarket, Kalshi, and the Wild West of prediction markets"
+title: Polymarket, Kalshi, and the Wild West of prediction markets
 date: 2025-09-13
 draft: false
 ---

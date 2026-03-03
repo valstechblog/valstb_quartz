@@ -1,5 +1,5 @@
 ---
-title: "2025-10-26: Big tech's bitter lesson"
+title: Big tech's bitter lesson
 date: 2025-10-26
 draft: false
 ---

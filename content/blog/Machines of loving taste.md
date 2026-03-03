@@ -1,5 +1,5 @@
 ---
-title: "2025-10-22: Machines of loving taste"
+title: Machines of loving taste
 date: 2025-10-22
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2025-09-30: Speeding into the AI of the hurricane"
+title: Speeding into the AI of the hurricane
 date: 2025-09-30
 draft: false
 ---
