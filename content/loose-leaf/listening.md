@@ -1,4 +1,14 @@
-Usual suspects: 
+
+*March 3, 2026*
+- [Turnstile covers The Stone Roses' "I Wanna Be Adored" - Like A Version](https://youtu.be/sZgZotipa-0?si=Hxc3tCE7OR31PqJV)
+
+
+### Recent and upcoming
+- *MORELUV*, 3ee
+- *Distracted*, Thundercat 
+- *THE WARNING*, Telenova 
+- *Devotion*, Sunday (1994) *(deluxe album coming out 2026-03-13)*
+### Usual suspects
 - *A Deeper Understanding*, The War on Drugs ([*Pitchfork*](https://pitchfork.com/reviews/albums/the-war-on-drugs-a-deeper-understanding/))
 - *Two Star & The Dream Police*, Mk.gee
 - *Heavy Metal*, Cameron Winter 
@@ -13,13 +23,7 @@ Usual suspects:
 - *MUTT*, Leon Thomas 
 - *Sweet Company*, Vicky Farewell 
 - *i hope u see this*, thủy
-
-Recent and upcoming: 
-- *MORELUV*, 3ee
-- *Distracted*, Thundercat 
-- *THE WARNING*, Telenova 
-
-Currently: 
+### Notables
 - [Tigran Hamasyan](https://www.tigranhamasyan.com/)
 	- *Armenian folk-influenced jazz*
 	- Album: *[Manifeste](https://www.youtube.com/watch?v=WmLgSrCeC6I)* (2026)
