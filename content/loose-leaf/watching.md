@@ -1,3 +1,6 @@
+*March 19, 2026*
+- [Junior Mesa - do your best nicholas](https://www.youtube.com/watch?v=Id-Vl04xWW4) 
+
 *March 15, 2026*
 - [Saburnia - Justice](https://www.youtube.com/watch?v=xbXtAOfgNWI)
 - [beabadoobee - All I Did Was Dream Of You ft. The Marías](https://www.youtube.com/watch?v=qV91x2YT9zI)
