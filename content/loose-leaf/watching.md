@@ -1,3 +1,7 @@
+
+*March 24, 2026*
+- [Connecting the Dots | a Roadtrip Documentary - Tanner Ray](https://www.youtube.com/watch?v=mWyqJx8Kb8Y)
+
 *March 19, 2026*
 - [Junior Mesa - do your best nicholas](https://www.youtube.com/watch?v=Id-Vl04xWW4) 
 
