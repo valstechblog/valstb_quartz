@@ -1,4 +1,10 @@
 
+*March 30, 2026*
+- [Emile Mosseri | 35mm Short Doc - Director: Nicholas Freeman, DP: Zayd Ezzeldine](https://www.youtube.com/watch?v=sY-wSL6a2WE)
+
+*March 29, 2026*
+- [Big Take (2024) - 16mm Short Film - Director: Alex Brooks](https://www.youtube.com/watch?v=GDv8Iei3h4Y)
+
 *March 24, 2026*
 - [Connecting the Dots | a Roadtrip Documentary - Tanner Ray](https://www.youtube.com/watch?v=mWyqJx8Kb8Y)
 
