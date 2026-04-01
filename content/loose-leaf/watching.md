@@ -1,19 +1,22 @@
+*March 31, 2026*
+- [With Wonder - 16mm - Director: Luis Campbell, DP: Julian Panetta](https://www.youtube.com/watch?v=Pxa-GvzMSiM)
 
 *March 30, 2026*
-- [Emile Mosseri | 35mm Short Doc - Director: Nicholas Freeman, DP: Zayd Ezzeldine](https://www.youtube.com/watch?v=sY-wSL6a2WE)
+- [Emile Mosseri - 35mm - Director: Nicholas Freeman, DP: Zayd Ezzeldine](https://www.youtube.com/watch?v=sY-wSL6a2WE)
 
 *March 29, 2026*
-- [Big Take (2024) - 16mm Short Film - Director: Alex Brooks](https://www.youtube.com/watch?v=GDv8Iei3h4Y)
+- [Big Take - 16mm - Director: Alex Brooks](https://www.youtube.com/watch?v=GDv8Iei3h4Y)
 
 *March 24, 2026*
-- [Connecting the Dots | a Roadtrip Documentary - Tanner Ray](https://www.youtube.com/watch?v=mWyqJx8Kb8Y)
+- [Connecting the Dots - Tanner Ray](https://www.youtube.com/watch?v=mWyqJx8Kb8Y)
 
 *March 19, 2026*
 - [Junior Mesa - do your best nicholas](https://www.youtube.com/watch?v=Id-Vl04xWW4) 
 
 *March 15, 2026*
-- [Saburnia - Justice](https://www.youtube.com/watch?v=xbXtAOfgNWI)
-- [beabadoobee - All I Did Was Dream Of You ft. The Marías](https://www.youtube.com/watch?v=qV91x2YT9zI)
+- Music videos with strong filmmaking: 
+	- [Saburnia - Justice](https://www.youtube.com/watch?v=xbXtAOfgNWI)
+	- [beabadoobee - All I Did Was Dream Of You ft. The Marías](https://www.youtube.com/watch?v=qV91x2YT9zI)
 
 Film: 
 - [John Woo](https://www.imdb.com/name/nm0000247/)  (Hong Kong)
