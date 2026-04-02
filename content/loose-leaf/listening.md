@@ -30,6 +30,7 @@
 - *MUTT*, Leon Thomas 
 - *Sweet Company*, Vicky Farewell 
 - *i hope u see this*, thủy
+- *FROM FLORIDA'S FINEST*, SAILORR 
 ### Notables
 - [Tigran Hamasyan](https://www.tigranhamasyan.com/)
 	- *Armenian folk-influenced jazz*
