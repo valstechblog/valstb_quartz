@@ -1,3 +1,6 @@
+*May 2, 2026*
+- [Not For Radio - Ache](https://www.youtube.com/watch?v=2lZ_slY8Zxo)
+
 *March 31, 2026*
 - [itula - didn't wanna have to do it](https://www.youtube.com/watch?v=DLYS7J3Xurk)
 - [MUANH - u wanna have it](https://www.youtube.com/watch?v=c-HBOaPgebI)
@@ -10,11 +13,12 @@
 
 *March 3, 2026*
 - [Turnstile covers The Stone Roses' "I Wanna Be Adored" - Like A Version](https://youtu.be/sZgZotipa-0?si=Hxc3tCE7OR31PqJV)
-### Recent and upcoming
+### Recents 
+- *Kehlani*, Kehlani 
 - *MORELUV*, 3ee
 - *Distracted*, Thundercat 
 - *THE WARNING*, Telenova 
-- *Devotion*, Sunday (1994) *(deluxe album coming out 2026-03-13)*
+- *Devotion*, Sunday (1994)
 ### Usual suspects
 - *A Deeper Understanding*, The War on Drugs ([*Pitchfork*](https://pitchfork.com/reviews/albums/the-war-on-drugs-a-deeper-understanding/))
 - *Two Star & The Dream Police*, Mk.gee
