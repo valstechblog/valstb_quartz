@@ -1,3 +1,7 @@
+# valstech.blog
+
+I use Quartz (readme below) to sync my Obsidian notes directly to [valstech.blog](https://www.valstech.blog/)
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
