@@ -1,3 +1,4 @@
+- *May 6, 2026*: [[What I learned from vibe-coding "Every time Daniel Molloy comes on screen play SexyBack" in an hour with Claude Code]]
 - *Jan 22, 2026*: [[AI and representation in media]]
 - *Oct 26, 2025*: [[Big tech's bitter lesson]]
 - *Oct 22, 2025*: [[Machines of loving taste]]
