@@ -8,8 +8,7 @@ You may have stumbled here via my <a href="https://x.com/valstechblog" target="_
 - Blog: 
 	- 05/18/2025: Experimenting with Obsidian graph visualization was fun for a while but not scalable. Migrated back to native [Substack](https://valstechblog.substack.com/)
 - "Loose leaf" notes I write directly in [Obsidian](https://obsidian.md/) and sync to this site via [Quartz](https://quartz.jzhao.xyz/) and [GitHub](https://github.com/valstechblog)
-	- [[media]] *(music and musicians)*
-	- [[reading]] *(books and writers)*
-	- [[watching]] *(film and television)*
+	- [[media]] *(music, film, etc.)*
+	- [[reading]] *(books, notes, etc.)*
 
 *Thank you for supporting your local <a href="https://roxie.com/" target="_blank">movie theater</a>, <a href="https://www.mercurycafe.net/" target="_blank">cafe</a>, and <a href="https://booksandbookshelves.com/" target="_blank">bookshop</a>.*
