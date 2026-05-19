@@ -6,7 +6,7 @@ draft: false
 You may have stumbled here via my <a href="https://x.com/valstechblog" target="_blank">Twitter</a>, <a href="https://valstechblog.substack.com/" target="_blank">Substack</a>, [GitHub](https://github.com/valstechblog), or <a href="https://letterboxd.com/valstechblog/" target="_blank">Letterboxd</a>.
 
 - Blog: 
-	- 05/18/2025: Experimenting with Obsidian graph visualization was fun for a while but not scalable. Migrated back to native [Substack](https://valstechblog.substack.com/)
+	- 05/18/2026: Experimenting with Obsidian graph visualization was fun for a while but not scalable. Migrated back to native [Substack](https://valstechblog.substack.com/)
 - "Loose leaf" notes I write directly in [Obsidian](https://obsidian.md/) and sync to this site via [Quartz](https://quartz.jzhao.xyz/) and [GitHub](https://github.com/valstechblog)
 	- [[media]] *(music, film, etc.)*
 	- [[reading]] *(books, notes, etc.)*
