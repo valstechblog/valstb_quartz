@@ -5,13 +5,10 @@ draft: false
 ---
 You may have stumbled here via my <a href="https://x.com/valstechblog" target="_blank">Twitter</a>, <a href="https://valstechblog.substack.com/" target="_blank">Substack</a>, [GitHub](https://github.com/valstechblog), or <a href="https://letterboxd.com/valstechblog/" target="_blank">Letterboxd</a>.
 
-I'm building out a few sections you can browse further using the sidebar: 
-- Selected posts from my blog (browse [[blog/index]]) 
-	- *05/2026*: [Building real-time on-screen actor detection with Claude Code](https://valstechblog.substack.com/p/what-i-learned-from-vibe-coding-every)
-	- *10/2025*: [[Machines of loving taste]] 
-	- *03/2025*: [[On the Anthropic Economic Index]]
+- Blog: 
+	- 05/18/2025: Experimenting with Obsidian graph visualization was fun for a while but not scalable. Migrated back to native [Substack](https://valstechblog.substack.com/)
 - "Loose leaf" notes I write directly in [Obsidian](https://obsidian.md/) and sync to this site via [Quartz](https://quartz.jzhao.xyz/) and [GitHub](https://github.com/valstechblog)
-	- [[listening]] *(music and musicians)*
+	- [[media]] *(music and musicians)*
 	- [[reading]] *(books and writers)*
 	- [[watching]] *(film and television)*
 
