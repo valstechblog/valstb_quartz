@@ -1,42 +1,6 @@
-*May 18, 2026*
-- [Baby Rose produced by BADBADNOTGOOD - Slow Burn: A Short Film](https://www.youtube.com/watch?v=QPsZuXp8K2g)
-
-*May 2, 2026*
-- [Not For Radio - Ache](https://www.youtube.com/watch?v=2lZ_slY8Zxo)
-
-*April 17, 2026*
-- [Music videos of Mk.gee](https://www.youtube.com/watch?v=NncelKQ6Hvw)
-
-*March 31, 2026*
-- [itula - didn't wanna have to do it](https://www.youtube.com/watch?v=DLYS7J3Xurk)
-- [With Wonder - 16mm - Director: Luis Campbell, DP: Julian Panetta](https://www.youtube.com/watch?v=Pxa-GvzMSiM)
-- [MUANH - u wanna have it](https://www.youtube.com/watch?v=c-HBOaPgebI)
-
-*March 30, 2026*
-- [Emile Mosseri - 35mm - Director: Nicholas Freeman, DP: Zayd Ezzeldine](https://www.youtube.com/watch?v=sY-wSL6a2WE)
-
-*March 29, 2026*
-- [Big Take - 16mm - Director: Alex Brooks](https://www.youtube.com/watch?v=GDv8Iei3h4Y)
-*March 24, 2026*
-- [Connecting the Dots - Tanner Ray](https://www.youtube.com/watch?v=mWyqJx8Kb8Y)
-
-*March 19, 2026*
-- [Junior Mesa - do your best nicholas](https://www.youtube.com/watch?v=Id-Vl04xWW4) 
-
-*March 18, 2026*
-- [Lucy Dacus - 'Losing' (live for Like A Version)](https://www.youtube.com/watch?v=t4hyk-vcehc)
-
-*March 15, 2026*
-- Music videos with strong filmmaking: 
-	- [Saburnia - Justice](https://www.youtube.com/watch?v=xbXtAOfgNWI)
-	- [beabadoobee - All I Did Was Dream Of You ft. The Marías](https://www.youtube.com/watch?v=qV91x2YT9zI)
-
-*March 10, 2026*
-- [DJ JUANNY | AMOR DIGITAL 005 | JERSEY CLUB & HOUSE MIX](https://www.youtube.com/watch?v=mdx4srf67eA) 
-
-*March 3, 2026*
-- [Turnstile covers The Stone Roses' "I Wanna Be Adored" - Like A Version](https://youtu.be/sZgZotipa-0?si=Hxc3tCE7OR31PqJV)
 ### Recents
+- *Ode to the Greyhouse*, Edgehill
+- *Gentleman*, Towa Bird
 - *Melt*, Not For Radio 
 - *Kehlani*, Kehlani 
 - *MORELUV*, 3ee
@@ -86,3 +50,45 @@
 	- Scorsese (and Coppola) cite _I Am Cuba_ (1964) dir. Mikhail Kalatozov as one of their filmmaking influences; there is a very famous shot in that film that pans up from the street, using pulleys and multiple cameramen, immersing the viewer in the action.
 - **_Hal & Harper_** (2025, limited series); **_Cha Cha Real Smooth_** (2022) dir. Cooper Raiff
 	- Raiff manages to write and capture chemistry and history between many different characters - siblings, parents, close friends, romantic interests. He’s very good at striking a sharp balance between humor and drama. There is a memorable kitchen scene in *Cha Cha Real Smooth* between Andrew (Raiff) and Domino (Dakota Johnson). They have a heart-to-heart that is intimate in its depth and inherent randomness; they jump from topic to topic with a leisurely wit unique to Raiff’s writing.
+
+### Extended log
+
+*May 18, 2026*
+- [Baby Rose produced by BADBADNOTGOOD - Slow Burn: A Short Film](https://www.youtube.com/watch?v=QPsZuXp8K2g)
+
+*May 2, 2026*
+- [Not For Radio - Ache](https://www.youtube.com/watch?v=2lZ_slY8Zxo)
+
+*April 17, 2026*
+- [Music videos of Mk.gee](https://www.youtube.com/watch?v=NncelKQ6Hvw)
+
+*March 31, 2026*
+- [itula - didn't wanna have to do it](https://www.youtube.com/watch?v=DLYS7J3Xurk)
+- [With Wonder - 16mm - Director: Luis Campbell, DP: Julian Panetta](https://www.youtube.com/watch?v=Pxa-GvzMSiM)
+- [MUANH - u wanna have it](https://www.youtube.com/watch?v=c-HBOaPgebI)
+
+*March 30, 2026*
+- [Emile Mosseri - 35mm - Director: Nicholas Freeman, DP: Zayd Ezzeldine](https://www.youtube.com/watch?v=sY-wSL6a2WE)
+
+*March 29, 2026*
+- [Big Take - 16mm - Director: Alex Brooks](https://www.youtube.com/watch?v=GDv8Iei3h4Y)
+
+*March 24, 2026*
+- [Connecting the Dots - Tanner Ray](https://www.youtube.com/watch?v=mWyqJx8Kb8Y)
+
+*March 19, 2026*
+- [Junior Mesa - do your best nicholas](https://www.youtube.com/watch?v=Id-Vl04xWW4) 
+
+*March 18, 2026*
+- [Lucy Dacus - 'Losing' (live for Like A Version)](https://www.youtube.com/watch?v=t4hyk-vcehc)
+
+*March 15, 2026*
+- Music videos with strong filmmaking: 
+	- [Saburnia - Justice](https://www.youtube.com/watch?v=xbXtAOfgNWI)
+	- [beabadoobee - All I Did Was Dream Of You ft. The Marías](https://www.youtube.com/watch?v=qV91x2YT9zI)
+
+*March 10, 2026*
+- [DJ JUANNY | AMOR DIGITAL 005 | JERSEY CLUB & HOUSE MIX](https://www.youtube.com/watch?v=mdx4srf67eA) 
+
+*March 3, 2026*
+- [Turnstile covers The Stone Roses' "I Wanna Be Adored" - Like A Version](https://youtu.be/sZgZotipa-0?si=Hxc3tCE7OR31PqJV)
