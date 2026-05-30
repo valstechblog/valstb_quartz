@@ -53,6 +53,9 @@
 
 ### Extended log
 
+*May 30, 2026*
+- [Love Spells Live in the Medium Sized Backyard - Pigeons & Planes](https://www.youtube.com/watch?v=6fe58fruwJU)
+
 *May 18, 2026*
 - [Baby Rose produced by BADBADNOTGOOD - Slow Burn: A Short Film](https://www.youtube.com/watch?v=QPsZuXp8K2g)
 
