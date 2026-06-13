@@ -53,6 +53,9 @@
 
 ### Extended log
 
+*June 12, 2026*
+- [J Espinosa Boiler Room Oakland DJ Set](https://www.youtube.com/watch?v=xOkX-C5TllM)
+
 *May 30, 2026*
 - [Love Spells Live in the Medium Sized Backyard - Pigeons & Planes](https://www.youtube.com/watch?v=6fe58fruwJU)
 
