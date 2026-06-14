@@ -53,6 +53,9 @@
 
 ### Extended log
 
+*June 14, 2026*
+- [Thee Sinseers: Tiny Desk (Home) Concert](https://www.youtube.com/watch?v=lsg1BCISPNU)
+
 *June 12, 2026*
 - [J Espinosa Boiler Room Oakland DJ Set](https://www.youtube.com/watch?v=xOkX-C5TllM)
 
