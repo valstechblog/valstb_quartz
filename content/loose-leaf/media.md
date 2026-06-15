@@ -53,6 +53,9 @@
 
 ### Extended log
 
+*June 15, 2026*
+- [Uncle Johnny - written by Angela Giarratana, directed by Margaux Susi](https://www.youtube.com/watch?v=f0aE1XqLNMg) 
+
 *June 14, 2026*
 - [Thee Sinseers: Tiny Desk (Home) Concert](https://www.youtube.com/watch?v=lsg1BCISPNU)
 
