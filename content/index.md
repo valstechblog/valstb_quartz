@@ -1,14 +1,19 @@
 ---
 title: valstech.blog
-date: 2026-05-18
+date: 2026-07-25
 draft: false
 ---
-You may have stumbled here via my <a href="https://x.com/valstechblog" target="_blank">Twitter</a>, <a href="https://valstechblog.substack.com/" target="_blank">Substack</a>, [GitHub](https://github.com/valstechblog), or <a href="https://letterboxd.com/valstechblog/" target="_blank">Letterboxd</a>.
-
-- Blog: 
-	- 05/18/2026: Experimenting with Obsidian graph visualization was fun for a while but not scalable. Migrated back to native [Substack](https://valstechblog.substack.com/)
+- <a href="https://x.com/valstechblog" target="_blank">Twitter</a>
+- <a href="https://valstechblog.substack.com/" target="_blank">Substack</a>
+- [GitHub](https://github.com/valstechblog)
+- <a href="https://letterboxd.com/valstechblog/" target="_blank">Letterboxd</a>
+- Selected blog posts 
+	- [[Machines of loving taste]]
+	- [[All the world's a stage, and all the humans and machines merely players]]
+	- [[Representation in a convoluted media landscape is an increasingly fraught path we must keep walking]]
 - "Loose leaf" notes I write directly in [Obsidian](https://obsidian.md/) and sync to this site via [Quartz](https://quartz.jzhao.xyz/) and [GitHub](https://github.com/valstechblog)
-	- [[media]] *(music, film, etc.)*
-	- [[reading]] *(books, notes, etc.)*
+	- [[film]]
+	- [[music]]
+	- [[reading]]
 
 *Thank you for supporting your local <a href="https://roxie.com/" target="_blank">movie theater</a>, <a href="https://www.mercurycafe.net/" target="_blank">cafe</a>, and <a href="https://booksandbookshelves.com/" target="_blank">bookshop</a>.*
