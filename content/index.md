@@ -7,10 +7,11 @@ draft: false
 - <a href="https://valstechblog.substack.com/" target="_blank">Substack</a>
 - [GitHub](https://github.com/valstechblog)
 - <a href="https://letterboxd.com/valstechblog/" target="_blank">Letterboxd</a>
-- Selected blog posts 
-	- [[Machines of loving taste]]
-	- [[All the world's a stage, and all the humans and machines merely players]]
-	- [[Representation in a convoluted media landscape is an increasingly fraught path we must keep walking]]
+- [Yelpboxd](https://yelpboxd.pages.dev/): "dinner and movie" recommender ([blog post](https://valstechblog.substack.com/p/yelpboxd-the-dinner-and-a-movie-recommender)) 
+- Selected [Val's Tech Blog](https://valstechblog.substack.com/) Substack posts 
+	- *Jan. 2026*: [Representation in a convoluted media landscape is an increasingly fraught path we must keep walking](https://valstechblog.substack.com/p/representation-in-a-convoluted-media)
+	- *Oct. 2025*: [Machines of loving taste](https://valstechblog.substack.com/p/machines-of-loving-taste)
+	- *Sept. 2025*: [All the world's a stage, and all the humans and machines merely players](https://valstechblog.substack.com/p/all-the-worlds-a-stage-and-all-the)
 - "Loose leaf" notes I write directly in [Obsidian](https://obsidian.md/) and sync to this site via [Quartz](https://quartz.jzhao.xyz/) and [GitHub](https://github.com/valstechblog)
 	- [[film]]
 	- [[music]]

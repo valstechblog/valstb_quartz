@@ -1,11 +1,13 @@
 ### Recents
+- *Q: From Where Do Our Primal Instincts Originate? A: MTV!*, Portraits Of Tracy
+- *Hound*, hey, nothing
+- *Blue Island*, Ravyn Lenae 
+- *U*, underscores
 - *Sweet Fortune*, Ryan Beatty
 - *Ode to the Greyhouse*, Edgehill
 - *Gentleman*, Towa Bird
 - *Melt*, Not For Radio 
-- *Kehlani*, Kehlani 
 - *MORELUV*, 3ee
-- *Distracted*, Thundercat 
 - *THE WARNING*, Telenova 
 - *Devotion*, Sunday (1994)
 ### Usual suspects
@@ -24,6 +26,8 @@
 - *Sweet Company*, Vicky Farewell 
 - *i hope u see this*, thủy
 - *FROM FLORIDA'S FINEST*, SAILORR 
+- *Kehlani*, Kehlani 
+- *Distracted*, Thundercat 
 ### Notables
 - [Tigran Hamasyan](https://www.tigranhamasyan.com/)
 	- *Armenian folk-influenced jazz*
