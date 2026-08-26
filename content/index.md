@@ -5,8 +5,8 @@ draft: false
 ---
 - <a href="https://x.com/valstechblog" target="_blank">Twitter</a>
 - <a href="https://valstechblog.substack.com/" target="_blank">Substack</a>
-- [GitHub](https://github.com/valstechblog)
-- <a href="https://letterboxd.com/valstechblog/" target="_blank">Letterboxd</a>
+- <a href="https://github.com/valstechblog" target="_blank">GitHub</a>
+- <a href="https://letterboxd.com/dj_arugula/" target="_blank">Letterboxd</a>
 - [Yelpboxd](https://yelpboxd.pages.dev/): "dinner and movie" recommender ([blog post](https://valstechblog.substack.com/p/yelpboxd-the-dinner-and-a-movie-recommender)) 
 - Selected [Val's Tech Blog](https://valstechblog.substack.com/) Substack posts 
 	- *Jan. 2026*: [Representation in a convoluted media landscape is an increasingly fraught path we must keep walking](https://valstechblog.substack.com/p/representation-in-a-convoluted-media)
